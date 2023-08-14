@@ -27,7 +27,7 @@
     "redis": "^3.1.2",
     "reflect-metadata": "^0.1.13",
     "stripe": "^12.18.0",
-    "typeorm": "^0.2.41"
+    "typeorm": "^0.3.17"
   },
   "devDependencies": {
     "@types/bcryptjs": "^2.4.2",
